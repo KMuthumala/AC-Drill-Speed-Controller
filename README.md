@@ -2,11 +2,11 @@
 
 * [About the Project](#about-the-project)
 * [Process](#process)
-  *[Schematic Diagram](#schematic-diagram)
-  *[PCB Layout](#pcb-layout)
-  *[WaveForms](#waveforms)
-  *[Soldered PCB](#soldered-pcb)
-  *[Specs](#specs)
+  * [Schematic Diagram](#schematic-diagram)
+  * [PCB Layout](#pcb-layout)
+  * [WaveForms](#waveforms)
+  * [Soldered PCB](#soldered-pcb)
+  * [Specs](#specs)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -22,25 +22,25 @@ When we use appliances like drill machines, the speed of the motor can be slowed
 Here are all related processes and works of hte controller
 
 ### Schematic Diagram
-![schematic](schematic.png)
+![schematic](schematic.PNG)
 
 ### PCB Layout
-![pcb](pcb.png)
+![pcb](pcb.PNG)
 
 ### WaveForms
 These are the simulation results for two different resistance values.
 
 #### Output waveform for lower resistance value
-![output_1](output_1.png)
+![output_1](output_1.PNG)
 
 #### Output waveform for higher resistance value
-![output_2](output_2.png)
+![output_2](output_2.PNG)
 
 ### Soldered PCB
-![soldered](soldered_pcb.png)
+![soldered](soldered_pcb.PNG)
 
 ### Specs
-![specs](specs.png)
+![specs](specs.PNG)
 
 
 
